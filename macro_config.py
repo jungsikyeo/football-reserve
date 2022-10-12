@@ -6,6 +6,6 @@ my_pw = "y20431!@#"
 my_name = "여정식"
 my_phone = "01045750638"
 
-reserve_day = "20221031"
+reserve_day = "20221114"
 
 unit_time = "20:00~22:00"
